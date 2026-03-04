@@ -16,9 +16,14 @@ WobbleGo 是一个基于 [Isaac Lab](https://isaac-sim.github.io/IsaacLab/) 的�
 
 **🏷️ 关键词：** isaaclab, 机器人, 强化学习, 倒立摆, 飞轮
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/geH9ed5Q3N)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/geH9ed5Q3N)
 [![Forum](https://img.shields.io/badge/Discourse-Forum-FF3300?style=for-the-badge&logo=discourse&logoColor=white)](https://noxcaw.com/c/robot/9)
-[![Isaac Lab](https://img.shields.io/badge/Simulator-Isaac%20Lab-orange?style=for-the-badge)](https://isaac-sim.github.io/IsaacLab/)
+
+![Platform](https://img.shields.io/badge/Platform-Ubuntu%2024.04.4-333333?style=for-the-badge&logo=ubuntu)
+![Python](https://img.shields.io/badge/Python-3.11.14-333333?style=for-the-badge&logo=python)
+![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-5.1.0-333333?style=for-the-badge&logo=nvidia)
+![Isaac Lab](https://img.shields.io/badge/Isaac%20Lab-2.3.0-333333?style=for-the-badge)
+![RSL-RL](https://img.shields.io/badge/RSL--RL-3.1.2-333333?style=for-the-badge)
 
 
 [Screencast from 2026-02-02 18-28-36.webm](https://github.com/user-attachments/assets/f338d787-c501-449f-a4fb-301595f98dc4)
